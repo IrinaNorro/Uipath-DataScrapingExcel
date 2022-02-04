@@ -22,6 +22,9 @@ In order this project to work as it is in Use Case, we need to
 - possibly convert Decimals to Double 
 - Figure out safer way of sending an email, since this one is possibly vulnerable way 
 
+### Watch it on Youtube
+https://youtu.be/OH6__NCZiFE 
+
 ### Thank you for your time and making it this far =) Have fun with my projects and hit me with some feedback if you want to!
 
 
