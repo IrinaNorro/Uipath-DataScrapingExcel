@@ -25,8 +25,10 @@ In order this project to work as it is in Use Case, we need to
 ### Watch it on Youtube
 https://youtu.be/OH6__NCZiFE 
 
-### Thank you for your time and making it this far =) Have fun with my projects and hit me with some feedback if you want to!
 
 
 ![Vuokaavio_lopputyö_väri](https://user-images.githubusercontent.com/80334153/151970320-07f04603-1ea9-49f2-a963-ffb3993d3907.PNG)
+
+### Thank you for your time and making it this far =) 
+### Have fun with my projects and hit me with some feedback if you want to!
 
