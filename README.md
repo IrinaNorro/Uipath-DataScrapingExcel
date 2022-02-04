@@ -27,7 +27,7 @@ https://youtu.be/OH6__NCZiFE
 
 ### Workflow
 
-![Vuokaavio_lopputyö_väri](https://user-images.githubusercontent.com/80334153/151970320-07f04603-1ea9-49f2-a963-ffb3993d3907.PNG)
+![workflowDataScrapingExcel](https://user-images.githubusercontent.com/80334153/152492664-da48e259-46f5-4333-bfce-5969f23c7eea.PNG)
 
 ### Thank you for your time and making it this far =) 
 ### Have fun with my projects and hit me with some feedback if you want to!
