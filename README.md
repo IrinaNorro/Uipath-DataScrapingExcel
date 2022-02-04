@@ -25,7 +25,7 @@ In order this project to work as it is in Use Case, we need to
 ### Watch it on Youtube
 https://youtu.be/OH6__NCZiFE 
 
-### Workflow
+### Flowchart
 
 ![workflowDataScrapingExcel](https://user-images.githubusercontent.com/80334153/152492664-da48e259-46f5-4333-bfce-5969f23c7eea.PNG)
 
